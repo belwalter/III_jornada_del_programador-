@@ -1,3 +1,5 @@
+//https://cloud.arduino.cc/cloud/getting-started
+
 int ledOpen=8;
 int ledClose=10;
 int switchReed=6;
